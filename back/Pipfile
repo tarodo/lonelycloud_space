@@ -16,6 +16,8 @@ alembic = "*"
 psycopg2 = "*"
 uvicorn = "*"
 python-dotenv = "*"
+spotipy = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.9"
