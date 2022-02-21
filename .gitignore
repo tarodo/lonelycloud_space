@@ -146,7 +146,7 @@ MANIFEST
 *.manifest
 *.spec
 
-# Installer logs
+# Installer app_logs
 pip-log.txt
 pip-delete-this-directory.txt
 
@@ -281,3 +281,6 @@ thumb
 sketch
 
 .idea
+*.html
+
+*.txt
